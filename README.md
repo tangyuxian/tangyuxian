@@ -1,4 +1,4 @@
-<h2>Hi,My name is `Tangyuxian`，Welcome to my little home</h2>
+## Hi,My name is `Tangyuxian`，Welcome to my little home
 
 <div align="center">
     <img src="https://www.tangyuxian.com/images/background/character.png" width="112px" height="150px" />
