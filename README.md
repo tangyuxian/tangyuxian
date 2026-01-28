@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:tangyuxian?theme=booru-lisu" alt="tangyuxian" />
+<img align="right" src="https://count.getloli.com/get/@:tangyuxian?theme=booru-touhoulat&scale=0.5" alt="tangyuxian" />
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=2000&pause=1000&color=E67249&width=450&lines=Hi+My+name+is+Tangyuxian~" />
 
 <table>
